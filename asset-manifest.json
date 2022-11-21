@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/travel_web/static/css/main.80e4ec62.css",
+    "main.js": "/travel_web/static/js/main.ba2008ec.js",
+    "static/media/Bike.mp4": "/travel_web/static/media/Bike.3baf5c39d6f833ea6518.mp4",
+    "static/media/River.mp4": "/travel_web/static/media/River.7732fe03ebb3fab13734.mp4",
+    "static/media/img8.jpg": "/travel_web/static/media/img8.bc8f457f5e4b55c7bc88.jpg",
+    "static/media/img5.jpg": "/travel_web/static/media/img5.611e7ea8853c3e01ea12.jpg",
+    "static/media/img4.jpg": "/travel_web/static/media/img4.3a1119a48d7f58107cbc.jpg",
+    "static/media/img6.jpg": "/travel_web/static/media/img6.334fbf748d3b18cb901a.jpg",
+    "static/media/img2.jpg": "/travel_web/static/media/img2.c03a7b3691a96e1fca86.jpg",
+    "static/media/img.jpg": "/travel_web/static/media/img.e8437e34938f4a133662.jpg",
+    "static/media/img7.jpg": "/travel_web/static/media/img7.b9ee31995c39b53530ec.jpg",
+    "static/media/img3.jpg": "/travel_web/static/media/img3.c524134d0871557d9742.jpg",
+    "static/media/img9.jpg": "/travel_web/static/media/img9.cebc1bc2a5422bb61a90.jpg",
+    "index.html": "/travel_web/index.html",
+    "main.80e4ec62.css.map": "/travel_web/static/css/main.80e4ec62.css.map",
+    "main.ba2008ec.js.map": "/travel_web/static/js/main.ba2008ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80e4ec62.css",
+    "static/js/main.ba2008ec.js"
+  ]
+}
